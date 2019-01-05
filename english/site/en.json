@@ -1,0 +1,36 @@
+{
+  "Menu":
+  [
+    {
+      "to_translate": "Accueil",
+      "translation": "Home",
+    },
+    {
+      "to_translate": "Fonctionnalités",
+      "translation": "Features",
+    },
+    {
+      "to_translate": "Télécharger",
+      "translation": "Download",
+    },
+    {
+      "to_translate": "À propos",
+      "translation": "About",
+    },
+    {
+      "to_translate": "Nouveautés",
+      "translation": "News",
+    },
+    {
+      "to_translate": "Compte",
+      "translation": "Account",
+    },
+  ],
+  "Header":
+  [
+    {
+      "to_translate": "Le seul et unique moteur de jeu qui répond à vos besoins.",
+      "translation": "The one and only game engine that meets your needs",
+    }
+  ]
+}
