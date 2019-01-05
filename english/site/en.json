@@ -1,5 +1,5 @@
 {
-  "Menu":
+  "menu":
   [
     {
       "to_translate": "Accueil",
@@ -24,13 +24,221 @@
     {
       "to_translate": "Compte",
       "translation": "Account",
-    },
+    }
   ],
-  "Header":
+  "header":
   [
     {
       "to_translate": "Le seul et unique moteur de jeu qui répond à vos besoins.",
       "translation": "The one and only game engine that meets your needs",
+    },
+    {
+      "to_translate": "Aucun partenaire !",
+      "translation": "Not partner",
+    },
+    {
+      "to_translate": "Le devenir? Cliquez ici",
+      "translation": "Want to become one? Click here",
     }
+  ],
+    "about_the_engine":
+  [
+    {
+      "to_translate": "Publiez vos jeux partout dans le monde et sur presque toutes les plateformes !",
+      "translation": "Publish your games anywhere in the world and almost any platform !",
+    },
+    {
+      "to_translate": "Créer",
+      "translation": "Create",
+    },
+    {
+      "to_translate": "Publier",
+      "translation": "Publish",
+    },
+    {
+      "to_translate": "Explorer",
+      "translation": "Explore",
+    }
+    ,
+    {
+      "to_translate": "AustelEngine comprend une multitudes de fonctionnalités pour créer ses jeux vidéos. Gérer les interfaces, les graphismes, les sons et encore plus !",
+      "translation": "AustelEngine includes a multitude of features to create video games. Manage interfaces, graphics, sounds and more !",
+    },
+    {
+      "to_translate": "Une fois le développement de votre jeu terminé, publiez le à travers le monde sur mobile, console et ordinateur. D'autres plateformes s'ajouteront*",
+      "translation": "Once the development of your game is over, publish in worldwide on mobile, console and computer. Other platforms will be added.*",
+    },
+    {
+      "to_translate": "Profitez de notre tableau de bord pour voir le nombre d'utilisateurs, les profits que vos jeux ont apporté, et autre donnée pertinante.",
+      "translation": "Take advantage of our dashboard to see number of users, the profits that your games have brought, and other relevant facts.",
+    },
+    {
+      "to_translate": "Lire plus",
+      "translation": "Read more",
+    },
+    {
+      "to_translate": "Un tout en un",
+      "translation": "An all in one",
+    },
+    {
+      "to_translate": "Toutes les fonctionnalités directement sur le moteur",
+      "translation": "All features directly on the engine",
+    },
+    {
+      "to_translate": "Créez des interfaces, des sons, des cartes, modèles 3D, utilisez notre IDE, tout ça dans notre moteur de jeu !",
+      "translation": "Create interfaces, sounds, maps, 3D models, use our IDE, all this in our game engine!",
+    }
+  ],
+    "keep_project_cloud":
+  [
+    {
+      "to_translate": "Stocker vos projets dans le cloud",
+      "translation": "Stock your projects in the cloud",
+    },
+    {
+      "to_translate": "Continuer les sur d'autres plateformes !",
+      "translation": "Continue them other platforms!",
+    },
+    {
+      "to_translate": "Vous pouvez stocker vos projets dans le cloud ce qui permet de le continuer sur une autre plateforme ! Également utile pour faire des sauvegardes.",
+      "translation": "You can stock your projets in the cloud which allows you to continue on another platform ! Also useful for making backups.
+    },
+  ],
+    "prices":
+  [
+    {
+      "to_translate": "Trois versions différentes. Pour tous les goûts.",
+      "translation": "Three different versions. For all tastes.",
+    },
+    {
+      "to_translate": "Trois versions sont disponibles: la versions communauté utilisable et complète, la versions professionnelle qui permet de stocker ses projets dans le cloud et plus, puis la version buisness pour les entreprises petite ou grande !",
+      "translation": "Three versions are available: the usable and complete community version, the professional version that allows you to store your projects in the cloud and more, then the buisness version for small or large companies!",
+    },
+    {
+      "to_translate": "Gratuit",
+      "translation": "Free",
+    },
+    {
+      "to_translate": "Communauté",
+      "translation": "Community",
+    },
+    {
+      "to_translate": "Professionnelle"
+      "translation": "Professionnal",
+    },
+    {
+      "to_translate": "Business",
+      "translation": "Business",
+    },
+    {
+      "to_translate": "Débutant et expert",
+      "translation": "Beginner and expert",
+    },
+    {
+      "to_translate": "- Presque toutes les fonctionnalités du moteur disponibles",
+      "translation": "- Almost all the features of the engine are available",
+    },
+    {
+      "to_translate": "Pour les développeurs sérieux",
+      "translation": "For serious developers",
+    },
+    {
+      "to_translate": "-Stocker 5 jeux maximum dans le cloud",
+      "translation": "- Stock up to 5 games in the cloud",
+    },
+    {
+      "to_translate": "- 6 fonctionnalités supplémentaires sur notre tableau de bord",
+      "translation": "- 6 more features on our dashboard",
+    },
+    {
+      "to_translate": "- Support plus rapide",
+      "translation": "- Support more fast",
+    },
+    {
+      "to_translate": "- Publier ses jeux en tant que modèle publique.",
+      "translation": "- Publish your games as a public model.",
+    },
+    {
+      "to_translate": "Pour les entreprises",
+      "translation": "",
+    },
+    {
+      "to_translate": "- Stocker 10 jeux maximum dans le cloud",
+      "translation": "- Stock up to 10 game in the cloud",
+    },
+    {
+      "to_translate": "- 15 fonctionnalités de plus sur notre tableau de bord",
+      "translation": "- 15 more features on our dashboard",
+    },
+    {
+      "to_translate": "- Support 24h/24",
+      "translation": "- Support 24h/24",
+    },
+    {
+      "to_translate": "- Publier ses jeux en tant que modèle publique et revendez-les",
+      "translation": "- Publish your games as a public model and resell them.",
+    },
+    {
+      "to_translate": "Précommander",
+      "translation": "",
+    },
+    {
+      "to_translate": "Prochainement",
+      "translation": "Soon",
+    }
+  ],
+    "Account":
+  [
+    {
+      "to_translate": "Avant toute chose, connectez-vous.",
+      "translation": "First of all, log in.",
+    },
+    {
+      "to_translate": "Connectez-vous pour télécharger et créer vos premiers jeux !",
+      "translation": "Sign in to download and create your first games!",
+    },
+    {
+      "to_translate": "Inscription",
+      "translation": "Register",
+    },
+    {
+      "to_translate": "Connexion",
+      "translation": "Login",
+    }
+  ],
+    "Footer":
+  [
+    {
+      "to_translate": "AustelEngine, un produit de Nietsloh",
+      "translation": "AustelEngine, a product from Nietsloh",
+    },
+    {
+      "to_translate": "Liens",
+      "translation": "Links",
+    },
+    {
+      "to_translate": "Compte",
+      "translation": "Account",
+    },
+    {
+      "to_translate": "Portail développeur",
+      "translation": "Developer portal",
+    },
+    {
+      "to_translate": "Boutique",
+      "translation": "Shop",
+    },
+    {
+      "to_translate": "Testeurs",
+      "translation": "Testers",
+    },
+    {
+      "to_translate": "Recrutements",
+      "translation": "Recruitments",
+    },
+    {
+      "to_translate": "Contacter",
+      "translation": "Contact",
+    },
   ]
 }
