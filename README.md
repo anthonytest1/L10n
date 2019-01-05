@@ -3,6 +3,8 @@
 
 >Localization refers to the adaptation of a product, application or document content to meet the language, cultural and other requirements of a specific target market (a locale).
 
+**french is the first language of the project, so what you translate will be from French to the language in which you translate.**
+
 ### How contribute 
 **Only the site can be translated for now.**
 
